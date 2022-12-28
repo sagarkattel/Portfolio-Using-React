@@ -6,9 +6,8 @@ import Footer from './footer/Footer'
 import Header from './header/Header'
 import Nav from './nav/Nav'
 import Portfolio from './portfolio/Portfolio'
-import Services from './services/Services'
+// import Services from './services/Services'
 import Testimonials from './testimonials/Testimonals'
-
 
 const App = () => {
   return (
@@ -17,7 +16,7 @@ const App = () => {
         <Nav />
         <About />
         <Experience />
-        <Services />
+        {/* <Services /> */}
         <Portfolio />
         <Testimonials />
         <Contact />

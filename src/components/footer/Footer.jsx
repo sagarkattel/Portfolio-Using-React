@@ -4,6 +4,8 @@ import {FaFacebookF} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
 import {FaTwitter} from 'react-icons/fa'
 
+
+
 const Footer = () => {
   return (
     <footer>
@@ -14,18 +16,21 @@ const Footer = () => {
       <li><a href="#experience">Experience</a></li>
       <li><a href="#services">Services</a></li>
       <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="#testinomials">Testinomials</a></li>
+      <li><a href="#testimonials">Testinomials</a></li>
       <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
         <a href="https://facebook.com"><FaFacebookF /></a>
         <a href="https://instagram.com"><FaInstagram /></a>
         <a href="https://twitter.com"><FaTwitter/></a>
+        
       </div>
       <div className="footer__copyright">
         <small>&copy; SAGAR Academy. All rights reserved. </small>
       </div>
+      
     </footer>
+    
   )
 }
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {BsFolder2} from 'react-icons/bs'
@@ -21,21 +21,25 @@ const About = () => {
           <article className='about__card'>
           <FaAward className='about__icons' />
             <h5>Experience</h5>
-            <small>3+ Years working</small>
+            <small>1+ Years working</small>
           </article>
           <article className='about__card'>
           <FiUsers className='about__icons' />
             <h5>Clients</h5>
-            <small>100+ Worldwide</small>
+            <small>10+ Worldwide</small>
           </article>
           <article className='about__card'>
           <BsFolder2 className='about__icons' />
             <h5>Projects</h5>
-            <small>80+ Completed</small>
+            <small>12+ Completed</small>
           </article>
         </div>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis distinctio facere deserunt mollitia reiciendis, non rerum voluptas reprehenderit perspiciatis beatae fugit debitis. Delectus fugit labore qui accusamus laboriosam hic reprehenderit.
+        Hey, I am Sagar Kattel, a passionate software developer from Nepal, with wide variety of skill in design, frontend and backend development. I love building crazy stuffs and you can always find me learning new things. I believe in minimalism and team work.
+        <br />
+Education -<br />
+BTech Computer Science and Engineering.<br />
+Chandigarh University. CGPA 8.08.<br />
         </p>
         <a href="#contact" className='btn btn-primary'>Lets Talk</a>
       </div>

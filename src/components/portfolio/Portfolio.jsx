@@ -10,17 +10,17 @@ import IMG6 from '../../assets/portfolio6.jpg'
 const data=[
   {
     id:1,
-    image:IMG2,
-    title:'Crypto Currency Dashboard',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    image:IMG1,
+    title:'SagarSpace',
+    github:'https://github.com/sagarkattel/SagarSpace',
+    demo:'https://sagarspace.netlify.app/'
   },
   {
     id:2,
     image:IMG2,
-    title:'Charts templates & infographics in figma',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    title:'Multi Step Form Using React',
+    github:'https://github.com/sagarkattel/Multistep-Form',
+    demo:'https://multistepformm.netlify.app/'
   },
   {
     id:3,
@@ -69,7 +69,7 @@ const Portfolio = () => {
       <h3>{title}</h3>
       <div className="portfolio__item-cta">
       <a href={github} className='btn'>Github</a>
-      <a href={demo} className='btn btn-primary' target='_blank' rel="noopener">Live Demo</a>
+      <a href={demo} className='btn btn-primary'  rel="noopener">Live Demo</a>
       </div>
       </article>
         )
