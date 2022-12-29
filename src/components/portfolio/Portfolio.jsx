@@ -25,30 +25,30 @@ const data=[
   {
     id:3,
     image:IMG3,
-    title:'Figma Dashboard UI kit for data design web app',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    title:'Todo App using ReactJS',
+    github:'https://github.com/sagarkattel/React-Todo',
+    demo:'https://thingstodoforday.netlify.app/'
   },
   {
     id:4,
     image:IMG4,
-    title:'Maintaining task and tracking progress',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    title:'Prortfolio Website With Login Functionality',
+    github:'https://github.com/sagarkattel/Complete-Website-Using-HTML-CSS-AND-JS',
+    demo:'https://webbuiltbysagar.netlify.app/'
   },
   {
     id:5,
     image:IMG5,
-    title:'Charts and infographics in figma',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    title:'WorkSheet Centre for Chandigarh University Students',
+    github:'https://github.com/sagarkattel/Worksheet',
+    demo:'https://worksheett.netlify.app/'
   },
   {
     id:6,
     image:IMG6,
     title:'Crypto Currency Dashboard',
-    github:'https://github.com',
-    demo:'https://youtube.com'
+    github:'https://github.com/sagarkattel/Crypto-Currency-Dashboard',
+    demo:'https://cryptodashboardfrontend.netlify.app/'
   }
 
 ]

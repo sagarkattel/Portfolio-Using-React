@@ -19,23 +19,23 @@ import 'swiper/css/pagination';
 const data=[
   {
     avatar:AVTR1,
-    name:'John Snow',
-    review:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic temporibus laudantium autem, obcaecati maiores minus perspiciatis unde neque deleniti quasi magnam animi iste laborum doloremque.'
+    name:'Amit Shah',
+    review:'I have been extremely impressed with [developer] work on our React-based project. Not only is the end result visually stunning, but the code is clean, efficient, and easy to maintain. [Developer] is a true professional and I highly recommend them to anyone in need of a top-notch frontend developer.'
   },
   {
     avatar:AVTR2,
-    name:'Blake White',
-    review:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic temporibus laudantium autem, obcaecati maiores minus perspiciatis unde neque deleniti quasi magnam animi iste laborum doloremque.'
+    name:'Ram Yadav',
+    review:'We hired him to help us build out the frontend of our React application and we could not be happier with the results. He is a skilled developer who was able to quickly understand our project. We highly recommend him to anyone looking for a reliable and talented frontend React developer.'
   },
   {
     avatar:AVTR3,
-    name:'Johny Depp',
-    review:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic temporibus laudantium autem, obcaecati maiores minus perspiciatis unde neque deleniti quasi magnam animi iste laborum doloremque.'
+    name:'Aman Gupta',
+    review:'I have worked with a number of frontend developers in the past, but he stands out as one of the best. Their understanding of React and its ecosystem is unparalleled, and they were able to quickly build out complex features that met all of our requirements. I would definitely work with him again in the future.'
   },
   {
     avatar:AVTR4,
-    name:'Paul Walker',
-    review:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic temporibus laudantium autem, obcaecati maiores minus perspiciatis unde neque deleniti quasi magnam animi iste laborum doloremque.'
+    name:'Sangam Shrestha',
+    review:'We were in a tight spot with our project and needed to find a frontend developer who could hit the ground running. He was the perfect fit for the job. They quickly became a valuable member of our team and were able to deliver high-quality code under tight deadlines. We are very happy with the work of his'
   },
 ]
 

@@ -35,7 +35,7 @@ header{
 .me{
     background: linear-gradient(var(--color-primary),transparent);
     width:250px;
-    height:68vh;
+    height:48vh;
     position:justify;
     left:calc(50%-11rem);
     margin-top: 2rem;
@@ -46,6 +46,9 @@ header{
     margin-right: auto;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
     /* background-color: red;  */
+}
+.me img{
+    margin-top: -50px;
 }
 
 
