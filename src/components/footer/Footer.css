@@ -5,7 +5,14 @@ footer{
     font-size: 0.9rem;
     margin-top: 7rem;
 }
+button{
+    background: var(--color-primary);
+    cursor: pointer;
+}
 footer a{
+    color: var(--color-bg);
+}
+footer button{
     color: var(--color-bg);
 }
 .footer__logo{
@@ -28,6 +35,7 @@ footer a{
     margin-bottom: 4rem;
 
 }
+
 .footer__socials a{
     background: var(--color-bg);
     color: var(--color-white);
