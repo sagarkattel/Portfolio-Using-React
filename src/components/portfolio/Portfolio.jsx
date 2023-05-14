@@ -46,9 +46,9 @@ const data=[
   {
     id:6,
     image:IMG6,
-    title:'Crypto Currency Dashboard',
-    github:'https://github.com/sagarkattel/Crypto-Currency-Dashboard',
-    demo:'https://cryptodashboardfrontend.netlify.app/'
+    title:'Blog Website',
+    github:'https://github.com/sagarkattel/Portfolio-Using-React.git',
+    demo:'https://blogwebsitesagar.netlify.app/'
   }
 
 ]
