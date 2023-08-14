@@ -17,25 +17,26 @@ const data=[
   },
   {
     id:2,
-    image:IMG2,
-    title:'Multi Step Form Using React',
-    github:'https://github.com/sagarkattel/Multistep-Form',
-    demo:'https://multistepformm.netlify.app/'
+    image:IMG6,
+    title:'Blog Website',
+    github:'https://github.com/sagarkattel/Portfolio-Using-React.git',
+    demo:'https://react-blog-website.pages.dev/'
   },
   {
     id:3,
-    image:IMG3,
-    title:'Todo App using ReactJS',
-    github:'https://github.com/sagarkattel/React-Todo',
-    demo:'https://thingstodoforday.netlify.app/'
-  },
-  {
-    id:4,
     image:IMG4,
     title:'Prortfolio Website With Login Functionality',
     github:'https://github.com/sagarkattel/Complete-Website-Using-HTML-CSS-AND-JS',
     demo:'https://webbuiltbysagar.netlify.app/'
   },
+  {
+    id:4,
+    image:IMG3,
+    title:'Todo App using ReactJS',
+    github:'https://github.com/sagarkattel/React-Todo',
+    demo:'https://thingstodoforday.netlify.app/'
+  },
+  
   {
     id:5,
     image:IMG5,
@@ -45,11 +46,11 @@ const data=[
   },
   {
     id:6,
-    image:IMG6,
-    title:'Blog Website',
-    github:'https://github.com/sagarkattel/Portfolio-Using-React.git',
-    demo:'https://blogwebsitesagar.netlify.app/'
-  }
+    image:IMG2,
+    title:'Multi Step Form Using React',
+    github:'https://github.com/sagarkattel/Multistep-Form',
+    demo:'https://multistepformm.netlify.app/'
+  },
 
 ]
 
