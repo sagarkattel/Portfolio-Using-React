@@ -18,38 +18,38 @@ const data=[
   {
     id:2,
     image:IMG6,
-    title:'Blog Website',
-    github:'https://github.com/sagarkattel/Portfolio-Using-React.git',
+    title:'Developer Blog Website',
+    github:'https://github.com/sagarkattel/',
     demo:'https://react-blog-website.pages.dev/'
   },
   {
     id:3,
     image:IMG4,
-    title:'Prortfolio Website With Login Functionality',
-    github:'https://github.com/sagarkattel/Complete-Website-Using-HTML-CSS-AND-JS',
-    demo:'https://webbuiltbysagar.netlify.app/'
+    title:'Invoice or Bill Generator',
+    github:'https://github.com/sagarkattel/invoice-or-bill-generator',
+    demo:'https://bill-generator-flax.vercel.app/'
   },
   {
     id:4,
     image:IMG3,
-    title:'Todo App using ReactJS',
-    github:'https://github.com/sagarkattel/React-Todo',
-    demo:'https://thingstodoforday.netlify.app/'
+    title:'Group Messaging',
+    github:'https://github.com/sagarkattel/Grp-chat-backend',
+    demo:'https://letuschat.netlify.app/'
   },
   
   {
     id:5,
     image:IMG5,
-    title:'WorkSheet Centre for Chandigarh University Students',
-    github:'https://github.com/sagarkattel/Worksheet',
-    demo:'https://worksheett.netlify.app/'
+    title:'Job Finder',
+    github:'https://github.com/sagarkattel/Job-Portal',
+    demo:'https://github.com/sagarkattel/Job-Portal'
   },
   {
     id:6,
     image:IMG2,
-    title:'Multi Step Form Using React',
-    github:'https://github.com/sagarkattel/Multistep-Form',
-    demo:'https://multistepformm.netlify.app/'
+    title:'Todo Application Using Typescript',
+    github:'https://github.com/sagarkattel/hacktoberfest-typescript',
+    demo:'https://hacktoberfest-typescript-todo.vercel.app/'
   },
 
 ]
